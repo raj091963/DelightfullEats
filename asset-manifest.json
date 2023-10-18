@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/DelightfullEats/static/css/main.62d8b0ab.css",
+    "main.js": "/DelightfullEats/static/js/main.2ba9ac94.js",
+    "static/media/blog-2.png": "/DelightfullEats/static/media/blog-2.886943189ab2431fc2d6.png",
+    "static/media/about.png": "/DelightfullEats/static/media/about.69a72a1a4491dca91b55.png",
+    "static/media/blog-1.png": "/DelightfullEats/static/media/blog-1.502e1d8c0feba63ee569.png",
+    "static/media/team-3.png": "/DelightfullEats/static/media/team-3.d7c86f551054fc299949.png",
+    "static/media/blog-3.png": "/DelightfullEats/static/media/blog-3.39a10e085eb81b671ed9.png",
+    "static/media/team-2.png": "/DelightfullEats/static/media/team-2.8269439b1b3c7307c4a8.png",
+    "static/media/feature.png": "/DelightfullEats/static/media/feature.4ad61ece1f0901e903fb.png",
+    "static/media/team-1.png": "/DelightfullEats/static/media/team-1.1500344831bbac83c42a.png",
+    "static/media/fruit.png": "/DelightfullEats/static/media/fruit.67b7b6ed6c8a0a5ed5c2.png",
+    "static/media/vegetable.png": "/DelightfullEats/static/media/vegetable.e86dacd491329622e3a4.png",
+    "static/media/testimonial.jpg": "/DelightfullEats/static/media/testimonial.b75714e7be2ff8119432.jpg",
+    "static/media/footer.png": "/DelightfullEats/static/media/footer.6b5bf20305e58b2c8797.png",
+    "static/media/carousel-1.jpg": "/DelightfullEats/static/media/carousel-1.26ae5237c12d8fc7a66b.jpg",
+    "static/media/bg-product-1.png": "/DelightfullEats/static/media/bg-product-1.cb68c6086e1e4e3fecee.png",
+    "static/media/product-1.png": "/DelightfullEats/static/media/product-1.367959489cf8ebcd381c.png",
+    "static/media/bg-product-2.png": "/DelightfullEats/static/media/bg-product-2.b4c9a5b9e5ecababaf98.png",
+    "static/media/product-2.png": "/DelightfullEats/static/media/product-2.4afd012ccc7d262f69d8.png",
+    "static/media/Logo.png": "/DelightfullEats/static/media/Logo.bd9b7dbf48eda678a64a.png",
+    "index.html": "/DelightfullEats/index.html",
+    "main.62d8b0ab.css.map": "/DelightfullEats/static/css/main.62d8b0ab.css.map",
+    "main.2ba9ac94.js.map": "/DelightfullEats/static/js/main.2ba9ac94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d8b0ab.css",
+    "static/js/main.2ba9ac94.js"
+  ]
+}
