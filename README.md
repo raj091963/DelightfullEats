@@ -3,7 +3,7 @@
 
 ## Source Code
 
-[DOWNLOAD HERE](https://drive.google.com/file/d/1GpTJts_jAKQ-DaPrN7Je4kI1owvvcrsh/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1GpTJts_jAKQ-DaPrN7Je4kI1owvvcrsh/view?usp=sharing" target="_blank">DOWNLOAD HERE</a>
 
 ## How to run this project
 Step 1: Download project from above souce code and decompress it. <br>
